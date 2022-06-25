@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=GreenMan36&no-bg=true&no-frame=true&margin-w=25&column=-1">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=onestar&no-bg=true&no-frame=true&margin-w=25&column=-1">
-  <img alt="Shows third-party github trophies." src="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=for-the-badge&no-bg=true&no-frame=true&margin-w=15&column=-1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=GreenMan36&no-bg=true&no-frame=true&margin-w=35&column=-1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=onestar&no-bg=true&no-frame=true&margin-w=35&column=-1">
+  <img alt="Shows third-party github trophies." src="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=for-the-badge&no-bg=true&no-frame=true&margin-w=35&column=-1">
 </picture>
 
 <picture>
