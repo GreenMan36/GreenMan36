@@ -11,7 +11,7 @@
 </picture>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenMan36&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenMan36&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenMan36&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&theme=dark&disable_animations=true&include_all_commits=true&layout=compact#gh-dark-mode-only">
   <img alt="Shows most used languages." src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenMan36&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only">
 </picture>
 
