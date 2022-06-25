@@ -1,7 +1,20 @@
-![Trophy showcase](https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=for-the-badge&no-bg=true&no-frame=true&margin-w=15&column=-1#gh-light-mode-only) ![Trophy showcase](https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=onedark&no-bg=true&no-frame=true&margin-w=15&column=-1&#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=GreenMan36&no-bg=true&no-frame=true&margin-w=15&column=-1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=onestar&no-bg=true&no-frame=true&margin-w=15&column=-1">
+  <img alt="Shows third-party github trophies." src="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=for-the-badge&no-bg=true&no-frame=true&margin-w=15&column=-1">
+</picture>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true#gh-light-mode-only)![Top programming languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only)
-![Stats](https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&theme=dark&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true#gh-dark-mode-only) ![Top programming languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&show_icons=true&theme=dark&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&theme=dark&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true#gh-dark-mode-only">
+  <img alt="Shows github statistics." src="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=for-the-badge&no-bg=true&no-frame=true&margin-w=15&column=-1">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&theme=dark&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true#gh-dark-mode-only">
+  <img alt="Shows github statistics." src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only">
+</picture>
 
 
 # Languages and more
