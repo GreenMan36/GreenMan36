@@ -1,19 +1,22 @@
+# shit
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=GreenMan36&no-bg=true&no-frame=true&margin-w=15&column=-1">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=onestar&no-bg=true&no-frame=true&margin-w=15&column=-1">
   <img alt="Shows third-party github trophies." src="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=for-the-badge&no-bg=true&no-frame=true&margin-w=15&column=-1">
 </picture>
 
+# shit
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true#gh-light-mode-only">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&theme=dark&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&theme=dark&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true">
   <img alt="Shows github statistics." src="https://github-profile-trophy.vercel.app/?username=GreenMan36&theme=for-the-badge&no-bg=true&no-frame=true&margin-w=15&column=-1">
 </picture>
 
+# shit
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenMan36&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GreenMan36&show_icons=true&theme=dark&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true#gh-dark-mode-only">
-  <img alt="Shows github statistics." src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only">
+  <img alt="Shows most used languages." src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenMan36&langs_count=10&show_icons=true&&hide_border=true&border_radius=32&disable_animations=true&include_all_commits=true&layout=compact#gh-light-mode-only">
 </picture>
 
 
@@ -52,7 +55,8 @@ I wasn't allowed to use these during school but I'd love to learn them in my fre
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-I haven't really got a use in mind but I find it a fascinating language and for that reason want to learn more about it:
+I haven't really got a use in mind but I find it a fascinating 
+uage and for that reason want to learn more about it:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
