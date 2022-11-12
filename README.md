@@ -1,5 +1,7 @@
 [Scroll to bottom of the readme.md](#end-of-readme)
 
+Note: Most of my work is in private, organization or classroom gits because I'm still in the process of learning. I might make more code related repo's public in the future.
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="512">
 
 
