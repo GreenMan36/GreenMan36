@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -527,20 +527,20 @@
                                     <text x="30" y="39.33333333333333" class="ct-post">11</text><text x="63.46153846153846" y="39.33333333333333" class="ct-post">11</text><text x="96.92307692307692" y="39.33333333333333" class="ct-post">11</text><text x="130.3846153846154" y="39.33333333333333" class="ct-post">11</text><text x="163.84615384615384" y="39.33333333333333" class="ct-post">11</text><text x="197.3076923076923" y="39.33333333333333" class="ct-post">11</text><text x="230.76923076923077" y="39.33333333333333" class="ct-post">11</text><text x="264.2307692307692" y="39.33333333333333" class="ct-post">11</text><text x="297.6923076923077" y="39.33333333333333" class="ct-post">11</text><text x="331.15384615384613" y="39.33333333333333" class="ct-post">11</text><text x="364.6153846153846" y="39.33333333333333" class="ct-post">11</text><text x="398.07692307692304" y="39.33333333333333" class="ct-post">11</text><text x="431.53846153846155" y="39.33333333333333" class="ct-post">11</text><text x="465" y="39.33333333333333" class="ct-post">11</text></g>
                                 </g>
                                 <g class="ct-labels">
-                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">08 Nov.</text>
-                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">09</text>
-                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">10</text>
-                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">11</text>
-                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">12</text>
-                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">13</text>
-                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">14</text>
-                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">15</text>
-                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">16</text>
-                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">17</text>
-                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">18</text>
-                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">19</text>
-                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">20</text>
-                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">09 Nov.</text>
+                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">10</text>
+                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">11</text>
+                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">12</text>
+                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">13</text>
+                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">14</text>
+                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">15</text>
+                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">16</text>
+                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">17</text>
+                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">18</text>
+                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">19</text>
+                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">20</text>
+                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">22</text>
                                 </g>
                             </svg>
                             <div class="ct-legend">
@@ -580,20 +580,20 @@
                                     <text x="30" y="120" class="ct-post">0</text><text x="63.46153846153846" y="120" class="ct-post">0</text><text x="96.92307692307692" y="120" class="ct-post">0</text><text x="130.3846153846154" y="120" class="ct-post">0</text><text x="163.84615384615384" y="120" class="ct-post">0</text><text x="197.3076923076923" y="120" class="ct-post">0</text><text x="230.76923076923077" y="120" class="ct-post">0</text><text x="264.2307692307692" y="120" class="ct-post">0</text><text x="297.6923076923077" y="120" class="ct-post">0</text><text x="331.15384615384613" y="120" class="ct-post">0</text><text x="364.6153846153846" y="120" class="ct-post">0</text><text x="398.07692307692304" y="120" class="ct-post">0</text><text x="431.53846153846155" y="120" class="ct-post">0</text><text x="465" y="120" class="ct-post">0</text></g>
                                 </g>
                                 <g class="ct-labels">
-                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">08 Nov.</text>
-                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">09</text>
-                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">10</text>
-                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">11</text>
-                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">12</text>
-                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">13</text>
-                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">14</text>
-                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">15</text>
-                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">16</text>
-                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">17</text>
-                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">18</text>
-                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">19</text>
-                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">20</text>
-                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">09 Nov.</text>
+                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">10</text>
+                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">11</text>
+                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">12</text>
+                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">13</text>
+                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">14</text>
+                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">15</text>
+                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">16</text>
+                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">17</text>
+                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">18</text>
+                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">19</text>
+                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">20</text>
+                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">22</text>
                                 </g>
                             </svg>
                             <div class="ct-legend">
@@ -633,7 +633,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcEBQb/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEBRESAAYHITETUWEiI0EVMnHB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABwRAAICAwEBAAAAAAAAAAAAAAABAgMRISJBYf/aAAwDAQACEQMRAD8AQFbq0Oh0iTUp6yGGRew8qP4A+SdH7cnK2735T7MVEamNId+lIZK3Ou7Eno/i/X+a0bp3vJ3txg1UEwHIpjSmxJSLFIJuMwb/ALbkfgHvXLpGyZVTkNNMuvOtlvNxSUmyXcMsD/IvY/I1Jtmtai1soGwOSalNmx6ZulltDj6R6ElKcMifGY8d+4tqmZaM8Og1ZjcMKO3FlL9V76XSw43YBZGZyAI7GklHkNuF1KmH1FtWBIHR6B9/nThn0FqjnQWuMd+UzbVFnwqyzIktPqRZpLaCi1zfyR76QOx+Q6RXafkA/CcSkEJlAAuJ7AIsTfwfnrUF4N2bS66IM2rB2TnHkvqYXj6ZU2W8RbG9vrPV/bWDfz71O5aqUeA6uNGQpuMllo4IS2ECwAGlGtWaIpOD+M97yxyTIbW6xCTKgoEj048ts2DiUD7nYN73WOreLHUxb5EqzanD+uy7qVkfvHzYD+tWjjmhUzdHF0hqsxG30iTJWk2spCgOlA+QdHDe9GapFRhtxpEhSX4bUhWeBspQN7WSOutXKr5QWnPo/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE+0lEQVR4nKXVbUwaZxwA8H7dsmRZ1C98MSVtFrNoBZLuLUvNkrXbaqOrraKRqmXKFRGhKoJKJ76A7/YAeRNwKm8q6N1p7Qs4Ka7ctR2VNba0qdWQ6paSqC1cY6JhLJTVNKabmD25D3e5f37P/3me//3vQCSOYbfbzWYzgiDxBEcikQP//XppaYnP5+t0OuXroVAo/hfqcrl4PB6TyTQYDENDQ3w+f3BwEAAAvV4fDof3jW5sbDgcDqVSKZPJWltbe3p6qjlsLperUqn6+voUCoXFYtkfGgwGdTodj8ejUqnnaLTT359QCiv91w09dRxJswiyjnZ2dra1tfl8vn2gTqezrKwsIyODTj+PKNrW58ZxDMExOITCS9NDE5cb9WBnfX09DMP7QGEYZrFYDAajjkHDUeS1iLzyXA9hk6EojeDzMyqVyuVybW9vx4vabDYmk5mZmflgvD8m4hgStTAER6P5hlBYUMURi8VbW1vxonK5XCwWc0qLgm54B31Lh3EMNoBtXC7X6/XGi5pMpn5Z712T/J/s3nWt3oRkMpnJZIoXNRqNNm1UDKHw89nR57OjOzneNkgfI/roPYbYkfGpqal4UalUegcxrc/ZZjTtV+Qty1eHsWEQx5CgG15z2Z5M/uy/ZsAxJPBo/tatW3Gh09PTcrn82RPfS/eEXlRV9yNVwj5/XSWJ1ZNOdPHUsc9GOuoDzrHxvvYXL15AELQ3KuTXOE2arY3A0yuD/msGdBhcc1nvmGSx5QecY5hBet+qxjFk+ZpBK66vKMrb3ny1B2rWq+9b1Y6RgZ0zCTjHYrV1b0Rh67n0dhkgoKim+Ozi40d7oP7fb89qO90WdezoV+ymsS4hOgz6IJ3Holi+Orw+N/7mG0Mc2g6pWBT5K7z3QS0uLgbu2kMosuoweyx9g+IaHv1s2scHf/jmC/qZE5drgTWXNYba9ZJ7v93de08jkYjP51txQTgWrfzmiqJDyYRPDiVnff358S/JZ7/9KuNoqlpYiWPImss6qRT5Hj6MC/W4nVOqZhyF1+dsioYKlbDyg/ffY5bRqaezkj76UCu62Mtj4Bjig7QNLJrf748LXV1+LCzPf2Y3+ia1oOBCCIV5xbm5WSdZJYVGCd9t7AUbgJduCJY2coDif+vWB3Y9h8Ph/g6BupE9rW6+xCoIuiHr5QZNI8fYXvuLvn3O0C0VAs/sxo5q+oCufx+df/7XG0D+yYG2i+xzWaszZq9VyT6X1VRJmx3o0DSzFaLyK6omPpD34MHCPtA/VldkLTXlhacu5J/UtXJvW8ARUDACCtym3m5Bqbm3VtPCLsg+PjExsbKysjfq9Xrz8vJSU1OHu0WSqpKCUxkNzPzOWrpCxOoWlEqqS35iFWha2Azqd12NdQkJCcnJyTweLxAIvBvd3NxsampKT0+nUCiHiAdXHean04N1DGoju7CZQwMbgN66MnFVsVLEqqbnLF0dmp8yEwgEEol05MiRlJQUFEV3ox6PJzc3l/JmJCUlXSjICbqhP2csiFzUyikSMHKrz+eIuSU3NJL1OZv/JkwryCeRSLF4MpmcnZ29G11YWEhJSdlBSSRSYmIiNfO4Dx543eqjfe+lG4r+SzAEUndnHDu2E0yhUIhEYldX1zuWL5fLDx8+vBNHJpOJRGJiYsLR9FR2YQ5YW95aUVJ6JvNTcnpaWtrb0xMIBAAAdu3p37sNEIFlEBkkAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFc0lEQVR4nO3Sa0yTVwAGYIbcWkEKLb19/dp+baEtl1IcMgSVm3M68RIIIhRQFEQFhMldQAYIiIAISrgJAioCzokOBQ04dJDNKRtOnOIEp0hiMjNcACUw9y6YmGWLqNmWbD98k/PjJOe8T85FS+tt/ovIKIK2QO1ot1Dh4umsdPV0tJw/z9JcNOdfh95VWJnHuBcfTrW5NZ5C/IKPiSdIF40jVTiCFKp/Itmj6ZSHvbPjP4YMDPS1NM6bYuLIOxNZ8rvIte1Bnk03ikTjqCCmUCqcRI6iDymKFsTaNExFeCZkmzAMtf8WJhQSOiHOSWUJnGHkiX+Gv6UQAXZ0hKqtUSS9hHb5s+cj6b1oBNqK4K2kI1LUge1LcuuNDOmz3gjRN9DXWvKBh0VJaVFqx9lPfkogBpBHPEGl4FfstRhAvvQxCgSTOCSeRLsCaDafwn5yCunkYySRt5HAvY1o9jX4LVoX+UbgihXLXfp/uIKq6n0oLczFkY19qJVNoEI0ihjuj0g3H8ceagrpxFOUi0dRSE4ih/8MGcIxbJNdQATZhUT2AOLVp4alFGn8WjA4OCig/fOTyMyKw8eZ8WhsKsfOD4uwltoBFeECSiqFXDYXLpQGGyVVSJD3Yq1sB6RCJXgiJfhcCnbkQiwgfSEVC86/FvRZ4+31dU8HMtNiEe9QidjorXCzfx8GNDpElBpKpTsUchdI5PNANzIGzYgGlpkESks3KK3cILdyBctMCGumI7zU4QP6+vqvBjMy0g703fwS+fuy8GltPWoOFiN67iEY0xlQ2bhDZf3HYJrxwWSYQiKzez63tfGAWuUOPl+G9VQFNIqcPl1d3ZkxGs1Aq73j7P3WtgYcOVqBo2V1iHKoRCizCXZmzpBI7aCeRm08YK1ygpCtxGLKD2yeECqVO1TqxVDK7WEjcEQc0YP16vzWV56OJAWGnZ1tj3al7fwt0KoE8eJ+JLIH8RGrCxHCFijJueAQFuCQCnCYBCLFxxFl1oEFpDeYpmZgsQnYsF0RIjmNTZwbWK1MbnztG/J4HLqDvS25mls1FsYeRgR/GBqyBBG2RdgqPwEfcTbWinYjWdaJYskQiuT9iKVaEWKZg3XOGvgowrBVeB6R/CG4yoOzpjsVCjm/+XTjfj6fN/ODelnkdgVyBpEmmEIeNYZ4ZQtSw7egsng3mg/Xoq64EAXp23Dq2B5UH9iJsoIkZITuwi7xIHawhxAhGIRa6rB0umvV6hU+Q8P9UCgs2DOCzmLvRD/ORaQIJpBPAoXCSexXPsLh5Fb0Xz2Bb7uPo6utBjevnsS17mNoymtEjnU/trF7EG12C0FU3QNThpHedJe/xnfznYFrWLjISTYjKGLzBT7cI0/jePeRSUxgt2ACadxh5ItGUTj/Aeo2X0Z1ZDsa479Aocf3SJbcQ5BJC6K532E98zxcFMujXnQFBPjH1NSW4s7A9et5+dnhM/5cT3VoRjCzHYnsIRSQk8gVjmM79xukcu+igJhADvEEafwRRHF6oTFtwGbWRQSanIG3IuIcnaavM91hbGysk5ub01tWXoKvLl/C0fqDYwKBwOCl4OzZBtorrbfs1bBan6VyB1EleYps4WOEMS8gyKQeGkY9fE2r4c+pRLDJGfixGrBUuaxpjiFt9osOihKbJCXFT9XUVmJ0/CHu3usdkckkjBmvVltbW8vJ3MXPh1f2MIh1DmHMSwhjdWIDow0bmC1YxzwDX9NGeJFZIw7m9uG6OrPe+ev+gAD/xObTDbhx8woK9maV6Onp/WnNS2PKMKLbU/PXuEv9DrjzQj5bJYlpc+MHnXAilhWqJXJfpukcw5n28nhcxqGa8pqu7gvtK1d6Lnot9jZv87/J747nsvnQEiGZAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYIAwX/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMRAAQFEhMhBjFBFVFxFCNhkSKBof/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABsRAAIDAQEBAAAAAAAAAAAAAAACAQMRIRIx/9oADAMBAAIRAxEAPwAK9LuGnRrb0AqCCNQJC/Yj+qQel3rLHF9nKpvLpdu0SWGCuOTJkcCotkFu/m7TurKhO45C45Hnv47/AOVS9MtM27enOB1vHPNqcbJCgXlTwCR37ChZ8DX2Tt1Qy+q5t75u4cRaGUJSRo247fAII/dQ2SbcU8lSiiSme59zSPfYJOXx2QyT+64+jcLNspSuEoHEkRzAqHfxa1ukWltcrbR/Aq3DyR3qJMEdMkR+jfR2luJyVo3fBwEOamdY/BAMz58mKVGn8ZcIaxjmPLYZgp1HbDWgcQT8fqie3uX8d0/Y5C2ec+qU1rUtZ1aipAmZ+TXpXOfvGl428SG95NwECQYiRx3rN16NG88LG/wr2JzF5eBl123ebmEkfbIkkEEyZJ4ifzQVfZFo3r6VNOShxST93R59q0J1bdOqxL7gVpUGN3j32wrz4kVldRLi1rXyomTSrXR2zk4f/9k=" width="28" height="28" alt="" />
@@ -672,56 +672,56 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.288590604026847 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.126666666666665 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="260.55033557046977 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="261.00666666666666 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.832214765100671 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.773333333333333 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="22.08053691275168 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.933333333333334 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.208053691275168 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.1933333333333334 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.416107382550336 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.386666666666667 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.208053691275168 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.1933333333333334 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.416107382550336 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.386666666666667 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                 </div>
@@ -732,7 +732,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Nov 2022, 04:46:49 (timezone Europe/Amsterdam) with lowlighter/metrics@3.30.0-beta</span>
+                <span>Last updated 22 Nov 2022, 04:37:36 (timezone Europe/Amsterdam) with lowlighter/metrics@3.30.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
