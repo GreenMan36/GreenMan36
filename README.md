@@ -1,8 +1,9 @@
 [Scroll to bottom of the readme.md](#end-of-readme)
 # GreenMan36 - GitHub Profile
 _Note: Most of my work is private or within organizations and classrooms, as I'm still learning. I may make more code-related repositories public in the future._
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="512">
+<p align="center">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="512" style="background:red;">
+</p>
 
 ## Skills
 - Markup Languages: ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
